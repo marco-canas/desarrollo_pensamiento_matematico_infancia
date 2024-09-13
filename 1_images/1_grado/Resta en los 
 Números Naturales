@@ -1,0 +1,32 @@
+digraph {
+	A [label="Resta en los 
+ Números Naturales"]
+	B [label="No Conmutativa"]
+	C [label="No Asociativa"]
+	D [label="Elemento Neutro: 0"]
+	E [label="Operación 
+ No Cerrada 
+ en los naturales"]
+	F [label="Operación 
+ no Distributiva
+(sobre la suma)"]
+	G [label="Ejemplos de 
+ no conmutatividad"]
+	H [label="Ejemplos de 
+ no asociatividad"]
+	I [label="Uso del 0 
+ en resta"]
+	J [label="No distribuye 
+ la resta para sumas"]
+	K [label="Pero si distribuye 
+ el signo para sumas"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	B -> G
+	C -> H
+	D -> I
+	F -> J
+}
