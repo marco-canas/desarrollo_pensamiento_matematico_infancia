@@ -1,5 +1,7 @@
 # Programa del curso de Desarrollo del pensamiento matemático en la Infancia para 2025-1
 
+Código del curso de práctica V: 2097501  
+
 [Registro inconsistencias lista de matriculados, estudiantes ausentes y alerta deserción](https://forms.office.com/pages/responsepage.aspx?id=IefhmYRxjkmK_7KtTlPBwrBHE0JZMbBFiOK7H9OJU6JUN0xDT0dWUjRUV0dVNUdKQVVQSUZJUjgxMy4u&route=shorturl)
 
 # Referentes
