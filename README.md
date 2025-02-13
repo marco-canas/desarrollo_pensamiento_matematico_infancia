@@ -2,7 +2,15 @@
 
 Código del curso de práctica V: 2097501  
 
-[Registro inconsistencias lista de matriculados, estudiantes ausentes y alerta deserción](https://forms.office.com/pages/responsepage.aspx?id=IefhmYRxjkmK_7KtTlPBwrBHE0JZMbBFiOK7H9OJU6JUN0xDT0dWUjRUV0dVNUdKQVVQSUZJUjgxMy4u&route=shorturl)
+[Registro inconsistencias lista de matriculados, estudiantes ausentes y alerta deserción](https://forms.office.com/pages/responsepage.aspx?id=IefhmYRxjkmK_7KtTlPBwrBHE0JZMbBFiOK7H9OJU6JUN0xDT0dWUjRUV0dVNUdKQVVQSUZJUjgxMy4u&route=shorturl)  
+
+
+# Evaluación  
+
+
+Socialización de la práctica pedagógica: 30%
+Prueba individual                        15%   
+
 
 # Referentes
 
