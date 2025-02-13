@@ -7,7 +7,7 @@ Código del curso de práctica V: 2097501
 
 # Evaluación  
 
-
+Diario pedagógico                        20%
 Socialización de la práctica pedagógica: 30%  
 Prueba individual                        15%   
 
