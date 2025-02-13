@@ -10,6 +10,10 @@ Código del curso de práctica V: 2097501
 * ¿Cuántos grupos nos asignarán?
 * ¿Cuantas prácticas nos asignarán?
 
+# Contenidos 
+
+## Contenidos de matemáticas de grado tercero según los DBA  
+
 
 
 # Evaluación  
@@ -32,6 +36,19 @@ Pruebas individuales                     30%
 
 * Registre las acciones a través de las cuáles aportó a la dinámica académica de la Licenciatura y de la Facultad
 * Escriba los principales aportes que realizó a los contenidos curriculares del programa del curso 
+
+
+[Este es el primer centro de práctica](https://www.ieliceocaucasia.edu.co/)
+
+
+# Información de la coordinadora del programa en educación infantil  
+
+Cristina Buitrago Bedoya
+
+Coordinadora 
+Licenciatura en Educación Infantil 
+Facultad de Educación
+Universidad de Antioquia 
 
 
 
