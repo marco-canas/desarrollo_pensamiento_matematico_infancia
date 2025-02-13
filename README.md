@@ -4,12 +4,20 @@ Código del curso de práctica V: 2097501
 
 [Registro inconsistencias lista de matriculados, estudiantes ausentes y alerta deserción](https://forms.office.com/pages/responsepage.aspx?id=IefhmYRxjkmK_7KtTlPBwrBHE0JZMbBFiOK7H9OJU6JUN0xDT0dWUjRUV0dVNUdKQVVQSUZJUjgxMy4u&route=shorturl)  
 
+# Problemas a resolver en la primera y segunda semana del curso 
+
+* ¿Cuáles son Los grados que nos asignarán*
+* ¿Cuántos grupos nos asignarán?
+* ¿Cuantas prácticas nos asignarán?
+
+
 
 # Evaluación  
 
-Diario pedagógico                        20%
+Participación:                           20% 
+Diario pedagógico                        20%  
 Socialización de la práctica pedagógica: 30%  
-Prueba individual                        15%   
+Pruebas individuales                     30%   
 
 
 # Referentes
