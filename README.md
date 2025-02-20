@@ -18,10 +18,10 @@ Código del curso de práctica V: 2097501
 
 # Evaluación  
 
-Participación:                           20% 
-Diario pedagógico                        20%  
-Socialización de la práctica pedagógica: 30%  
-Pruebas individuales                     30%   
+Participación:                           20%   
+Diario pedagógico                        20%    
+Socialización de la práctica pedagógica: 30%    
+Pruebas individuales                     30%     
 
 
 # Referentes
