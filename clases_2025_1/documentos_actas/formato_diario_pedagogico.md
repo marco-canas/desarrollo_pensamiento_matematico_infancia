@@ -28,7 +28,8 @@
 - **Metodología aplicada:** (ABPP, STEAMS, estrategias didácticas usadas)
 - **Recursos y materiales empleados:**
 - **Estrategias para fomentar la participación y el pensamiento crítico:**
-- **Uso de tecnología y herramientas digitales:** (Jupyter Notebooks, Python, LaTeX, etc.)
+- **Uso de tecnología y herramientas digitales:** ( GeoGebra, Calculadoras, Celulares, Computadores,
+   Jupyter Notebooks, Python, LaTeX, etc.)
 
 ---
 
