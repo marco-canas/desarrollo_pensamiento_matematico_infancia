@@ -5,7 +5,7 @@
 ---
 
 ### **Datos Generales**
-- **Nombre del estudiante:**
+- **Nombre de los estudiantes practicantes:**
 - **Fecha:**
 - **Institución Educativa:**
 - **Grado(s) atendido(s):**
@@ -29,7 +29,7 @@
 - **Recursos y materiales empleados:**
 - **Estrategias para fomentar la participación y el pensamiento crítico:**
 - **Uso de tecnología y herramientas digitales:** ( GeoGebra, Calculadoras, Celulares, Computadores,
-   Jupyter Notebooks, Python, LaTeX, etc.)
+   Jupyter Notebooks, Python, LaTeX, WolframAlpha, Google Colab, etc.)
 
 ---
 
@@ -46,7 +46,7 @@
 ### **4. Evaluación del Aprendizaje**
 - **Nivel de comprensión de los conceptos por parte de los estudiantes:**
 - **Dificultades conceptuales identificadas:**
-- **Evidencias de aprendizaje observadas en los niños:**
+- **Evidencias de aprendizaje observadas en los niños:** (Fotos del cuaderno del niño, videos durante los talleres de clase)
 - **Herramientas de evaluación empleadas:** (preguntas, experimentación, ejercicios, proyectos, entre otros)
 - **Propuesta de estrategias de refuerzo para la próxima sesión:**
 
@@ -54,9 +54,13 @@
 
 ### **5. Reflexión Docente**
 - **Aprendizajes obtenidos como docente en formación:**
+  
 - **Aspectos a mejorar en la próxima clase:**
+  
 - **Sugerencias para fortalecer la práctica docente y la enseñanza de matemáticas en primaria:**
+  
 - **Ideas para integrar mejor la metodología STEAMS y el Aprendizaje Basado en Problemas y Proyectos:**
+  
 - **Comentarios finales sobre la experiencia:**
 
 ---
